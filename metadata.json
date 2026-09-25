@@ -1,0 +1,6 @@
+{
+  "name": "Cybersecurity Access Log Monitoring",
+  "description": "Enterprise campus network access log monitoring, DBMS ER modeling, DMGT formal logic, ADSA access-pattern graph, OOPJ & Python statistical anomaly detection with interactive SOC dashboard and technical presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
